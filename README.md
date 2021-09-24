@@ -1,6 +1,6 @@
 # Revolution2
 
-## **#1.부정 보험금 청구 탐지(Insurance Fraud Claims Detection) 데이터 **
+## **#1. 부정보험금청구탐지(Insurance Fraud Claims Detection) 데이터 **
 
 <pre>- months_as_customer : <i>int</i> 보험금 납입 기간(누적, 개월)
 - age	: <i>int</i> 연령
@@ -47,7 +47,7 @@
 </code></pre>
 
 
-## **#2. 피싱 탐지(Phishing Detection) 데이터 **
+## **#2. 피싱탐지(Phishing Detection) 데이터 **
 
 <pre>- SFH	: <i>int</i> Server Form Handler(서버 폼 핸들러)의 이상여부
 - popUpWidnow : <i>int</i> 윈도우 팝업 여부
