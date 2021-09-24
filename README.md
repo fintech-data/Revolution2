@@ -66,7 +66,7 @@
 <pre><code>website_phishing = pd.read_csv('https://raw.githubusercontent.com/fintech-data/Revolution2/main/data/Website%20Phishing.csv')
 </code></pre>
 
-## **#3 보험료 결정 데이터 **
+## #3 보험료 결정 데이터 
 
 
 <pre>- age: <i>int</i>, 나이
@@ -78,11 +78,11 @@
 - charges: <i>float</i>, 보험료
 </pre>
 
-#### **데이터 불러오기**
+#### 데이터 불러오기
 <pre><code>insurance = pd.read_csv('https://raw.githubusercontent.com/fintech-data/Revolution2/main/data/insurance.csv')
 </code></pre>
 
-## **#4 여행자 보험  데이터 **
+## #4 여행자 보험  데이터 
 
 <pre><code>- Agency: <i>str</i>, 보험 판매점
 - Agency Type: <i>str</i>, 판매점 형태
