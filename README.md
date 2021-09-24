@@ -1,6 +1,6 @@
 # Revolution2
 
-## **#1. 부정보험금청구탐지(Insurance Fraud Claims Detection) 데이터 **
+## #1. 부정보험금청구탐지(Insurance Fraud Claims Detection) 데이터 
 
 <pre>- months_as_customer : <i>int</i> 보험금 납입 기간(누적, 개월)
 - age	: <i>int</i> 연령
@@ -42,12 +42,12 @@
 - fraud_reported :<i>str </i> 허위 청구여부 (허위청구 :  Y / 정상청구 : N)
 </pre>
 
-#### **데이터 불러오기**
+#### 데이터 불러오기
 <pre><code>insurance_claim = pd.read_csv("https://raw.githubusercontent.com/fintech-data/Revolution2/main/data/insurance_claims.csv")
 </code></pre>
 
 
-## **#2. 피싱탐지(Phishing Detection) 데이터 **
+## #2. 피싱탐지(Phishing Detection) 데이터 
 
 <pre>- SFH	: <i>int</i> Server Form Handler(서버 폼 핸들러)의 이상여부
 - popUpWidnow : <i>int</i> 윈도우 팝업 여부
