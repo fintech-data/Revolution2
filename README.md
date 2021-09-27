@@ -87,13 +87,14 @@
 <pre><code>- Agency: <i>str</i>, 보험 판매점
 - Agency Type: <i>str</i>, 판매점 형태
 - Distribution Channel: <i>str</i>, 판매 채널
-- Product Name Claim: <i>str</i>,  판매 상품 종류
+- Product Name : <i>str</i>,  판매 상품 종류
 - Duration: <i>str</i>, 보험기간
 - Destination: <i>str</i>,  여행국가
 - Net Sales: <i>int</i>, 순마진
 - Commision (in value): <i>float</i>, 수수료
 - Gender: <i>str</i>, 성별
 - Age: <i>int</i>, 나이
+- Claim : 보험금 청구
 </code></pre>
 
 #### **데이터 불러오기**
