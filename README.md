@@ -59,6 +59,7 @@
 - age_of_domain :<i>int</i>  도메인의 수명 이상여부
 - having_IP_Address :<i>int</i> ip 주소의 사용여부
 - Result :<i>int</i>  피싱사이트 여부
+        ( 1:Legitimate / 0 : Suspicious / -1 : Phishy)
 </pre>
 
 
